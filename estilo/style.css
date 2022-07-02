@@ -19,6 +19,7 @@ body {
     min-height: 100vh;
     background-image: url(../imagens/papel-amassado.jfif);
     background-position: center center;
+
     
 }
 
@@ -28,6 +29,7 @@ header {
     text-align: center;
     color: white;
     box-shadow: 2px 4px 5px rgb(66, 66, 66);
+
 }
 
 header > h1 {
