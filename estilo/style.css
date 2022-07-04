@@ -19,6 +19,7 @@ body {
     min-height: 100vh;
     background-image: url(../imagens/papel-amassado.jfif);
     background-position: center center;
+    box-sizing: border-box;
 
     
 }
@@ -70,6 +71,7 @@ ul {
 a{
     text-decoration: none;
     color: white;
+
 }
 
 /* MAIN-CONTEÚDO */
